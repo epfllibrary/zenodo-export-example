@@ -10,17 +10,18 @@ This is a demo Github repository for the Github-Zenodo publication mechanism. Ze
 --------------------------------
 
 Sharing / Access information or License section
-- licenses CC=0
-- terms of use *
-- citation instructions *
-- links to related publications
-- links to other research outputs and datasets
+
+License: CC0
+Terms of use: feel free to adapt, modify and distribute as needed.
+Citation instructions: no citation is needed.
+
 - URL in repository
 - persistent identifiers
 
 --------------------------------
 
 Data and file(s) overview or Data section
+
 - README.txt: this file
 - LICENSE: standard CC0 license text
 - .zenodo.json: metadata file
